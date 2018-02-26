@@ -14,7 +14,7 @@
 <h3>What is the history of this computer part?</h3>
 <p>The history of storage devices goes back to the early 20th century. Only a few decades ago, storage devices were extremely large in size, comparable to a wardrobe, and could only hold a few kilobytes of data. Today, we have storage devices that could easily be put into out pocket being able to hold gigabytes of data. Thanks to these improvements of storage devices transformed computers from being large and a luxury only found in big companies, government and universities to being decreased in size, allowing for <i>personal computers</i> to emerge.  
 
-<img src="https://image.slidesharecdn.com/theevolutionofdatastotrage-160630081927/95/the-evolution-of-data-storage-devices-2-638.jpg?cb=1467276085"
+
 
 </p>
 <ul>
