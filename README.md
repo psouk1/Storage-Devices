@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Computer hardware test for webpage</title>
+        <a href="https://psouk1.github.io/Storage-Devices/>CLICK ME</a>
     </head>
     <body>
 <h1>ICS3U Computer Hardware Project</h1>
@@ -63,7 +63,6 @@
    
    
    <hr>
-    </body>
     <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6905603&style=0050&nbdigits=5&type=page&initCount=0" title="http://www.hitwebcounter.com/" Alt="http://www.hitwebcounter.com/"   border="0" >
@@ -72,4 +71,6 @@
                                         target="_blank" style="font-family: ; 
                                         font-size: px; color: #; text-decoration:  ;"><>                                        </>
                                         </a>   
+    </body>
+
 </html>
