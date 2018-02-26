@@ -33,7 +33,7 @@
      
      <hr>
      
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Hard_Drive_%2811644419853%29.jpg"alt="Hard Drive"style="width:200px;height:150px;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Hard_Drive_%2811644419853%29.jpg"alt="Hard Drive" style="width:100px;height:100px;">
      <h3>Why was this computer part invented?</h3>
      Since the invention of computers and various computing devices, finding ways to store the data had always been a major concern. As computers become more advanced and technology improves, data size increases, thus creating an eternal demand for increased storage capacity. 
      
