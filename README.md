@@ -47,3 +47,6 @@
         
         <h3>What are the costs for the part? (budget version, high end version, etc.)</h3>
        <p> The costs for a storage device depends on various factors such as quality  and the storage capacity. A budget version of an HDD would be the <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16822178381"> Seagate Hybrid Drive ST1000DX001 1TB</a>. </p>
+    </body>
+    
+</html>
