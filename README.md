@@ -33,7 +33,8 @@
      
      <hr>
      
-     <img src="http://www.digitalmedix.com/images/hard-drive.jpg"alt="Hard Drive">
+     <img src="https://usercontent1.hubstatic.com/8895710.jpg">
+     
      <h3>Why was this computer part invented?</h3>
      Since the invention of computers and various computing devices, finding ways to store the data had always been a major concern. As computers become more advanced and technology improves, data size increases, thus creating an eternal demand for increased storage capacity. 
      
