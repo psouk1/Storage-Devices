@@ -2,9 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <a href="https://psouk1.github.io/Storage-Devices/>CLICK ME</a>
+
     </head>
     <body>
+                 <a href="https://psouk1.github.io/Storage-Devices/>CLICK ME</a>
 <h1>ICS3U Computer Hardware Project</h1>
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" alt="Computer Gif" style="width:800px;height:700px;">
 
