@@ -6,7 +6,7 @@
     </head>
     <body>
 <h1>ICS3U Computer Hardware Project</h1>
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" alt="Computer Gif" style="width:800px;height:500px;">
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" alt="Computer Gif" style="width:800px;height:700px;">
 
 
 <hr> 
