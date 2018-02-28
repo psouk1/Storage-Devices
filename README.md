@@ -8,7 +8,7 @@
 Created by Patrick Soukbandith, Michaela Jones, and Erik Menhart
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" alt="Computer Gif" style="width:800px;height:700px;">
 
-         <a href="https://psouk1.github.io/Storage-Devices/cpupartics3u.html">Visit our webpage on Storage Devices</a>
+<a href="https://psouk1.github.io/Storage-Devices/cpupartics3u.html">Visit our webpage on Storage Devices</a>
      
    
   
